@@ -1,16 +1,19 @@
-## Hi there 👋
+awowix
 
-<!--
-**awowix/awowix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+information security student
+focus areas: backend development, data processing, and system security fundamentals
 
-Here are some ideas to get you started:
+### Tech Stack and Skills:
+programming languages: Python , C++ (beginner), Java (currently learning)
+frontend: HTML, CSS
+backend: Flask
+databases: MySQL
+development Tools: Visual Studio Code, Visual Studio, PyCharm
+platforms: Windows, Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects:
+simple calculator - desktop GUI application built with C++
+https://github.com/awowix/simple-calculator
+
+hand gesture recognition - real time hand gesture tracking using Python and MediaPipe
+https://github.com/awowix/gesture-recognition-mediapipe
