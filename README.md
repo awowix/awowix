@@ -1,19 +1,22 @@
 awowix
 
-information security student
-focus areas: backend development, data processing, and system security fundamentals
+information security student.
+
+**focus areas:** backend development, data processing, and system security fundamentals.
 
 ### Tech Stack and Skills:
-programming languages: Python , C++ (beginner), Java (currently learning)
-frontend: HTML, CSS
-backend: Flask
-databases: MySQL
-development Tools: Visual Studio Code, Visual Studio, PyCharm
-platforms: Windows, Android
+
+**Languages:** Python, C++ (Fundamentals), Java (Currently Learning)  
+**Frontend:** HTML, CSS  
+**Backend:** Flask  
+**Databases:** MySQL  
+**Tools:** Visual Studio Code, Visual Studio, PyCharm  
+**Platforms:** Windows, Android
 
 ### Projects:
-simple calculator - desktop GUI application built with C++
-https://github.com/awowix/simple-calculator
 
-hand gesture recognition - real time hand gesture tracking using Python and MediaPipe
-https://github.com/awowix/gesture-recognition-mediapipe
+**[simple-calculator](https://github.com/awowix/simple-calculator)**  
+Desktop GUI application built with C++.
+
+**[gesture-recognition-mediapipe](https://github.com/awowix/gesture-recognition-mediapipe)**  
+Real-time hand gesture tracking using Python and MediaPipe.
